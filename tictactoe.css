@@ -40,3 +40,8 @@ h1{
 .reset:hover{
     background-color: hsl(0, 0%, 50%);
 }
+
+h2{
+    text-align: center;
+    margin-right: 9rem;
+}
