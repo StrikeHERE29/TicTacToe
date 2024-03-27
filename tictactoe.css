@@ -1,0 +1,22 @@
+
+h1{
+    margin-left: 15rem;
+    font-size: 40px;
+}
+
+.div-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    border: 2px solid black;
+    max-width: 600px;
+    height: 400px;
+    cursor: pointer;
+    
+}
+
+div{
+    border: 2px solid black;
+    font-size: 6rem;
+    text-align: center;
+    
+}
